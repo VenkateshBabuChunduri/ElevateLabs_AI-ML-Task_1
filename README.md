@@ -1,5 +1,3 @@
-# ElevateLabs_AI-ML-Task_1
-Data Cleaning &amp; Preprocessing
 # AI/ML Internship - Task 1: Data Cleaning & Preprocessing (Titanic Dataset)
 
 ## Objective
